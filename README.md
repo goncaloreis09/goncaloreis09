@@ -25,6 +25,6 @@ Feel free to explore my repositories, and if you come across anything interestin
 
 ## Get in Touch
 
-Let's connect and discuss exciting projects, coding challenges, or anything tech-related. Feel free to drop me a message via [email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/).
+Let's connect and discuss exciting projects, coding challenges, or anything tech-related. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gonçalo-reis-274982232/).
 
 Looking forward to connecting with fellow developers and innovators. Happy coding! 🚀
