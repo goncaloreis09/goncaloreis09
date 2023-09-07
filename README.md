@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi everyone, my name is Gonçalo Reis 👋
+
+I'm a tech enthusiast and currently I'm on my final year of Software Engineering bachelor
 
 <!--
 **goncaloreis09/goncaloreis09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
